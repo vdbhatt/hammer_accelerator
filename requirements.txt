@@ -1,1 +1,1 @@
-nmigen
+git+https://github.com/nmigen/nmigen
